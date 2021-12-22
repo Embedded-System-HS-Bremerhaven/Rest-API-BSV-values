@@ -34,7 +34,9 @@ data = [{"tag_number": 101, "overall_bsv": 3,"feed": "normal" },
         {"tag_number": 3221, "overall_bsv": 2,"feed": "more feed required" },
         {"tag_number": 122, "overall_bsv": 4,"feed": "normal" },
         {"tag_number": 8211, "overall_bsv": 1,"feed": "more feed required" },
-        {"tag_number": 356, "overall_bsv": 1,"feed": "more feed required" }]
+        {"tag_number": 356, "overall_bsv": 1,"feed": "more feed required" },
+         {"tag_number": 56, "overall_bsv": 1,"feed": "more feed required" },
+        ]
 
 
 for i in range(len(data)):
